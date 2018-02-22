@@ -1,6 +1,6 @@
 # Maps_Integration_Test_Ionic
 
-Experimenting with the integration of Google Maps API on the Ionic platform. The application uses a web API (essentially a list of locations) which gets presented on the mobile phone. For testing purposes I have created this file and hosted it as json online. [a link](http://myjson.com/4685b)    
+Experimenting with the integration of Google Maps API on the Ionic platform. The application uses a web API (essentially a list of locations) which gets presented on the mobile phone. For testing purposes I have created this file and hosted it as json online. Link [here](http://myjson.com/4685b).
 
 ## Installing
 
